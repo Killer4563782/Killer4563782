@@ -5,8 +5,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Killer4563782&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Killer4563782&theme=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Killer4563782&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Killer4563782&theme=gruvbox)](https://wakatime.com)
+
 
 
 ### 🛠️ Skills  
