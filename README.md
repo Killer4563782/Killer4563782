@@ -68,41 +68,143 @@ Sometimes created simply because I wanted to know **if I could build it**.
 ## `// DARKNESS PROTOCOL`
 
 ```text
-[ CORE ]        Advanced C++ / Software Architecture
-[ UI ]          ImGui / DirectX / Custom Interfaces
-[ WEB ]         Modern Web Development
-[ HARDWARE ]    Arduino / Embedded Experiments
-[ AI ]          AI Assisted Development
-[ LAB ]         Ideas that start with "what if..."
+╭──────────────────────────────────────────────────────────────╮
+│                     PROJECT DARKNESS                         │
+├──────────────────────────────────────────────────────────────┤
+│ SYSTEM MODE        : EXPERIMENTAL                            │
+│ BUILD PHILOSOPHY   : IDEA → PROTOTYPE → BREAK → IMPROVE      │
+│ PRIMARY DOMAIN     : C++ / SYSTEMS / CUSTOM UI               │
+│ SECONDARY DOMAIN   : WEB / HARDWARE / AUTOMATION             │
+│ ACCESS LEVEL       : INTERNAL                                │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-> **Project Darkness** is the internal name for projects that are still cooking in the shadows.
+```text
+[ PDX-01 ]  CORE SYSTEMS
+            C++ • Architecture • Low-Level Development
+
+[ PDX-02 ]  INTERFACE ENGINE
+            ImGui • DirectX • Custom Desktop Interfaces
+
+[ PDX-03 ]  NETWORK LAYER
+            Web Development • APIs • Backend Experiments
+
+[ PDX-04 ]  HARDWARE LAB
+            Arduino • Embedded Systems • Physical Interfaces
+
+[ PDX-05 ]  INTELLIGENCE UNIT
+            AI Assisted Development • Automation • Tooling
+
+[ PDX-06 ]  BLACKBOX
+            Experimental Projects • Prototypes • Unknown Ideas
+```
+
+> **Project Darkness** is where unfinished ideas, strange experiments and overengineered concepts start before they become real projects.
 
 ---
 
-## `// ACTIVE SIGNAL`
+## `// ACTIVE SIGNALS`
+
+```text
+SCANNING PUBLIC PROJECT CHANNELS...
+5 PROJECT SLOTS AVAILABLE
+```
 
 <table>
 <tr>
-<td width="70%">
 
-### Arduino Audio Interface
+<td width="50%" valign="top">
 
-C++ / Arduino experiment focused on building a custom audio interface and desktop UI.
+### `01 // ARDUINO AUDIO INTERFACE`
 
-**Stack**
+**STATUS:** `PUBLIC`
+
+Custom C++ / Arduino based audio interface experiment with a desktop UI.
 
 `C++` `Arduino` `ImGui`
 
-</td>
-
-<td width="30%" align="center">
+<br>
 
 <a href="https://github.com/Killer4563782/Arduino-audio-interface">
-<strong>OPEN PROJECT →</strong>
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-0284C7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
+<td width="50%" valign="top">
+
+### `02 // CLASSIFIED`
+
+**STATUS:** `DARK`
+
+Project currently operating under the **Project Darkness** protocol.
+
+`PRIVATE` `EXPERIMENTAL`
+
+<br>
+
+<img src="https://img.shields.io/badge/ACCESS-CLASSIFIED-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03 // NO SIGNAL`
+
+**STATUS:** `OFFLINE`
+
+Reserved for the next public project.
+
+`AWAITING DEPLOYMENT`
+
+<br>
+
+<img src="https://img.shields.io/badge/SIGNAL-OFFLINE-020617?style=for-the-badge&logo=github&logoColor=64748B"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 // NO SIGNAL`
+
+**STATUS:** `OFFLINE`
+
+Reserved for the next experiment that escapes the lab.
+
+`AWAITING DEPLOYMENT`
+
+<br>
+
+<img src="https://img.shields.io/badge/SIGNAL-OFFLINE-020617?style=for-the-badge&logo=github&logoColor=64748B"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+### `05 // BLACKBOX`
+
+**STATUS:** `UNKNOWN`
+
+Reserved for projects that probably started with:
+
+> *“What happens if I try this?”*
+
+`PROJECT DARKNESS` `UNKNOWN`
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-UNKNOWN-020617?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+
+</td>
+
 </tr>
 </table>
 
