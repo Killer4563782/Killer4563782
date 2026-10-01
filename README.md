@@ -65,84 +65,7 @@ Sometimes created simply because I wanted to know **if I could build it**.
 
 ---
 
-## `// DARKNESS PROTOCOL`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PROTOCOL-ACTIVE-0284C7?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/ACCESS-INTERNAL-0EA5E9?style=for-the-badge&labelColor=020617"/>
-
-<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-38BDF8?style=for-the-badge&labelColor=020617"/>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-`01 // CORE`
-
-**C++**  
-Systems  
-Architecture
-
-</td>
-
-<td align="center" width="25%">
-
-`02 // INTERFACE`
-
-**ImGui**  
-DirectX  
-Custom UI
-
-</td>
-
-<td align="center" width="25%">
-
-`03 // NETWORK`
-
-**Web**  
-APIs  
-Backend
-
-</td>
-
-<td align="center" width="25%">
-
-`04 // BLACKBOX`
-
-**Arduino**  
-AI  
-Experiments
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<code>IDEA → BUILD → BREAK → REBUILD → SHIP</code>
-
-<br><br>
-
-<sub>
-Project Darkness // where unfinished ideas become real systems.
-</sub>
-
-</div>
-
----
-
 ## `// ACTIVE SIGNALS`
-
-```text
-SCANNING PUBLIC PROJECT CHANNELS...
-5 PROJECT SLOTS AVAILABLE
-```
 
 <table>
 <tr>
@@ -258,9 +181,6 @@ Reserved for projects that probably started with:
 
 <div align="center">
 
-```text
-PROJECT DARKNESS // ACCESS GRANTED
-```
 
 <img src="https://komarev.com/ghpvc/?username=Killer4563782&label=SYSTEM%20VISITS&color=0284c7&style=flat-square" />
 
