@@ -67,39 +67,73 @@ Sometimes created simply because I wanted to know **if I could build it**.
 
 ## `// DARKNESS PROTOCOL`
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                     PROJECT DARKNESS                         │
-├──────────────────────────────────────────────────────────────┤
-│ SYSTEM MODE        : EXPERIMENTAL                            │
-│ BUILD PHILOSOPHY   : IDEA → PROTOTYPE → BREAK → IMPROVE      │
-│ PRIMARY DOMAIN     : C++ / SYSTEMS / CUSTOM UI               │
-│ SECONDARY DOMAIN   : WEB / HARDWARE / AUTOMATION             │
-│ ACCESS LEVEL       : INTERNAL                                │
-╰──────────────────────────────────────────────────────────────╯
-```
+<div align="center">
 
-```text
-[ PDX-01 ]  CORE SYSTEMS
-            C++ • Architecture • Low-Level Development
+<img src="https://img.shields.io/badge/PROTOCOL-ACTIVE-0284C7?style=for-the-badge&labelColor=020617"/>
 
-[ PDX-02 ]  INTERFACE ENGINE
-            ImGui • DirectX • Custom Desktop Interfaces
+<img src="https://img.shields.io/badge/ACCESS-INTERNAL-0EA5E9?style=for-the-badge&labelColor=020617"/>
 
-[ PDX-03 ]  NETWORK LAYER
-            Web Development • APIs • Backend Experiments
+<img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-38BDF8?style=for-the-badge&labelColor=020617"/>
 
-[ PDX-04 ]  HARDWARE LAB
-            Arduino • Embedded Systems • Physical Interfaces
+</div>
 
-[ PDX-05 ]  INTELLIGENCE UNIT
-            AI Assisted Development • Automation • Tooling
+<br>
 
-[ PDX-06 ]  BLACKBOX
-            Experimental Projects • Prototypes • Unknown Ideas
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
-> **Project Darkness** is where unfinished ideas, strange experiments and overengineered concepts start before they become real projects.
+`01 // CORE`
+
+**C++**  
+Systems  
+Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+`02 // INTERFACE`
+
+**ImGui**  
+DirectX  
+Custom UI
+
+</td>
+
+<td align="center" width="25%">
+
+`03 // NETWORK`
+
+**Web**  
+APIs  
+Backend
+
+</td>
+
+<td align="center" width="25%">
+
+`04 // BLACKBOX`
+
+**Arduino**  
+AI  
+Experiments
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<code>IDEA → BUILD → BREAK → REBUILD → SHIP</code>
+
+<br><br>
+
+<sub>
+Project Darkness // where unfinished ideas become real systems.
+</sub>
+
+</div>
 
 ---
 
